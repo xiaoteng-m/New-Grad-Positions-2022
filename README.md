@@ -1,16 +1,3 @@
-# 2022 New Grad Applications
-
-The 2022 Full time grind has begun! Use this repo to share and keep track of any full time positions in quant, SWE, and PM.
-
-**Contribute by making a pull request!**
-
-## Resources
-Here are some resources Coder Quad recommends to prepare for OA's and technical interviews!
-#### Books
-* [Competitive Programmer's Handbook](https://cses.fi/book/book.pdf)
-
-## The List
-
 | Name  |  Location |  Notes |
 |---|---|-------------|
 |[Cruise](https://boards.greenhouse.io/cruise/jobs/2364685) | SF | |
