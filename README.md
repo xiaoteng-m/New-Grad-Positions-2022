@@ -1,7 +1,5 @@
 | Name  |  Location |  Notes |
 |---|---|-------------|
-|[Capital Group](https://jobs.capitalgroup.com/job/Los-Angeles-New-Grad-Software-Development-Engineer-I-CA-90071/740361000/) | LA | |
-|[DRW](https://drw.com/careers/job/1881596) | Austin, Chicago | |
 |[Five Rings](https://fiverings.avature.net/careers/FolderDetail/New-York-New-York-United-States-Software-Developer-Campus-Hire-Full-Time-Class-of-2022/543) | NYC | |
 |[Palantir](https://www.palantir.com/careers/) | NYC, Palo Alto, Seattle, London | Multiple SWE Positions |
 |[McKinsey](https://www.mckinsey.com/careers/search-jobs/jobs/analyst-softwareengineerdataengineerdatascientist-campusstudents-41876) | Multiple | SWE Consulting |
