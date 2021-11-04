@@ -1,6 +1,5 @@
 | Name  |  Location |  Notes |
 |---|---|-------------|
-|[Cruise](https://boards.greenhouse.io/cruise/jobs/2364685) | SF | |
 |[Nvidia](https://nvidia.wd5.myworkdayjobs.com/UniversityJobs/) | Various | Many SWE New Grad positions |
 |[Asana](https://boards.greenhouse.io/earlycareerprograms/jobs/3261084) | SF | New Graduate: Software Engineering (2022 start)
 |[The Voleon Group](https://jobs.lever.co/voleon/a059b894-b468-4fb1-a86f-36fb63afe3a5) | Berkeley | |
