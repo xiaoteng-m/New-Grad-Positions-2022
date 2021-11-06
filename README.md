@@ -105,7 +105,6 @@
 |[Flexport](https://boards.greenhouse.io/flexport/jobs/3479879?s=LinkedIn&source=LinkedIn) | Bellevue, Chicago (High Priority), San Francisco | SWE |
 |[NetApp](https://netapp.eightfold.ai/careers?query=NetApp%20Emerging%20Talent%20-%20Software%20%26%20QA%20Engineer) | Multiple Locations in the US | SWE, QA |
 |[Twitter](https://jobs.smartrecruiters.com/ni/Twitter2/38c17a4c-60d1-4333-b666-22632c1ce39b-2022-engineering-new-graduates-and-early-career-north-america-latin-america) | SF | Various Engineer Positions |
-|[Netflix](https://jobs.netflix.com/jobs/127236667) | Los Gatos, California | New Grad, Software Engineer |
 |[Square](https://www.smartrecruiters.com/Square/743999776502570) | SF, Remote | Software Engineer (New Grad) |
 |[Atlassian](https://www.atlassian.com/company/careers/detail/620921f2-c09c-4d3e-8bd2-f8781fbcc276) | CA, Remote  | SWE, PM, Site Reliability Eng, Data Scientist ([Full list here](https://www.atlassian.com/company/careers/students))|
 |[Gusto](https://boards.greenhouse.io/gusto/jobs/3499021) | SF, NYC, Denver | No sponsorship |
