@@ -74,13 +74,11 @@
 |[Redfin](https://www.redfin.com/careers/departments/emerging-talent) | Seattle | [SWE](https://redfin.wd1.myworkdayjobs.com/redfin_careers/job/WA---Seattle/Full-Time-Opportunities-for-Recent-Graduates-OR-BootCamp-Graduates_40452), [Product Designer](https://redfin.wd1.myworkdayjobs.com/redfin_careers/job/WA---Seattle/Product-Designer--Full-Time-Opportunities-for-Students-and-Recent-Graduates_41458), [Product Management](https://redfin.wd1.myworkdayjobs.com/redfin_careers/job/WA---Seattle/Product-Manager--Full-Time-Opportunities-for-Students-and-Recent-Graduates_41361) |
 |[UBS](https://jobs.ubs.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=25008&siteid=5131&PageType=JobDetails&jobid=239106#jobDetails=239106_5131) | Multiple (US, London, Hongkong, Singapore...) | Tech, Banking, Asset Management, Multiple |
 |[DraftKings](https://draftkings.wd1.myworkdayjobs.com/DraftKings/) | Boston | [Analyst](https://draftkings.wd1.myworkdayjobs.com/en-US/DraftKings/job/Boston-MA/Analyst--December-2021-and-2022-Grads-Only-_JR1637), [SWE](https://draftkings.wd1.myworkdayjobs.com/en-US/DraftKings/job/Boston-MA/Software-Engineer--December-2021-and-2022-Grads-Only-_JR1633) |
-|[Coursera](https://jobs.lever.co/coursera/97594f4e-0906-4f7f-b183-0cc9a0e0885f) | Mountain View, Toronto | SWE |
 |[Delta Airlines](https://delta.avature.net/careers/SearchJobs/associate%20software%20engineer) | Atlanta | Associate SWE |
 |[Plaid](https://plaid.com/careers/openings/all-departments/all-locations/?role=new%20grad) | NYC, SF, Salt Lake City | SWE |
 |[SeatGeek](https://seatgeek.com/jobs/107959?gh_jid=107959) | NYC | SWE |
 |[Squarespace](https://www.squarespace.com/careers/jobs/3408877) | NYC | SWE |
 |[Western Digital](https://jobs.smartrecruiters.com/WesternDigital/743999770489869-software-engineering-new-college-grad-pursuing-bachelor-of-science-) | San Jose, CA | SWE |
-|[TikTok](https://careers.tiktok.com/position/7002790917644568845/detail) | MTV, SFO, SEA | SWE |
 |[Better](https://boards.greenhouse.io/better/jobs/3416543) | NYC | |
 |[Sentry](https://boards.greenhouse.io/sentry/jobs/3462843) | SF, Toronto | SWE |
 |[Abnormal Security](https://boards.greenhouse.io/abnormalsecurity/jobs/4708438003) | SF | SWE |
