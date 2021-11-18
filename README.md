@@ -105,3 +105,8 @@
 |[Google](https://careers.google.com/jobs/results/139295856164512454-software-engineer-early-career-campus/) | US, [Canada](https://careers.google.com/jobs/results/74898009881486022-software-developer-early-career-campus/) | SWE, [Front End](https://careers.google.com/jobs/results/91669597192626886-ux-engineer-front-end-early-career/) |
 |[Gap Inc](https://www.gapinc.com/en-us/jobs/37/63/gaptech-engineering-rotational-program-2) | San Francisco, Columbus, Atlanta, Dallas | SWE |
 |[Aura](https://careers-aura.icims.com/jobs/1479/platform-engineer/job) | Remote | SWE/Platform Engineer |
+|[Slack](https://salesforce.wd1.myworkdayjobs.com/en-US/Slack/job/California---San-Francisco/Associate-Software-Engineer--New-Grad----Slack_JR117902-2) | SF | SWE |
+|[Tucows](https://tucows.com/job/?gh_jid=4665305003) | Canada, USA, Fully Remote  | SWE, PM ([Full list here](https://tucows.com/careers/opportunities/))|
+|[Benchling](https://www.benchling.com/careers/?gh_jid=3248513#detail) | SF, [Boston](https://www.benchling.com/careers/?gh_jid=3632416#detail) | |
+|[Jerry](https://jobs.lever.co/getjerry/3f85c5dd-4b36-4035-a8b6-e54c349054e8) | SF, [Vancouver](https://jobs.lever.co/getjerry/e0d8f129-4750-4b42-b950-d3ba2a96a604), [Toronto](https://jobs.lever.co/getjerry/192721da-da33-4a7a-8ece-aca135e52c14) | |
+|[WillowTree](https://www.willowtreeapps.com/careers/jobs?gh_jid=5525482002) | Charlottesville, Columbus, Durham NC | |
