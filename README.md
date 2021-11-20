@@ -60,7 +60,6 @@
 |[OneTrust](https://www.onetrust.com/careers/detail/?gh_jid=3331757) | Atlanta | Java Developer, QA, Consultant (search "New Grad" on search bar) |
 |[Redfin](https://www.redfin.com/careers/departments/emerging-talent) | Seattle | [SWE](https://redfin.wd1.myworkdayjobs.com/redfin_careers/job/WA---Seattle/Full-Time-Opportunities-for-Recent-Graduates-OR-BootCamp-Graduates_40452), [Product Designer](https://redfin.wd1.myworkdayjobs.com/redfin_careers/job/WA---Seattle/Product-Designer--Full-Time-Opportunities-for-Students-and-Recent-Graduates_41458), [Product Management](https://redfin.wd1.myworkdayjobs.com/redfin_careers/job/WA---Seattle/Product-Manager--Full-Time-Opportunities-for-Students-and-Recent-Graduates_41361) |
 |[UBS](https://jobs.ubs.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=25008&siteid=5131&PageType=JobDetails&jobid=239106#jobDetails=239106_5131) | Multiple (US, London, Hongkong, Singapore...) | Tech, Banking, Asset Management, Multiple |
-|[DraftKings](https://draftkings.wd1.myworkdayjobs.com/DraftKings/) | Boston | [Analyst](https://draftkings.wd1.myworkdayjobs.com/en-US/DraftKings/job/Boston-MA/Analyst--December-2021-and-2022-Grads-Only-_JR1637), [SWE](https://draftkings.wd1.myworkdayjobs.com/en-US/DraftKings/job/Boston-MA/Software-Engineer--December-2021-and-2022-Grads-Only-_JR1633) |
 |[Delta Airlines](https://delta.avature.net/careers/SearchJobs/associate%20software%20engineer) | Atlanta | Associate SWE |
 |[Plaid](https://plaid.com/careers/openings/all-departments/all-locations/?role=new%20grad) | NYC, SF, Salt Lake City | SWE |
 |[SeatGeek](https://seatgeek.com/jobs/107959?gh_jid=107959) | NYC | SWE |
@@ -92,10 +91,8 @@
 |[Square](https://www.smartrecruiters.com/Square/743999776502570) | SF, Remote | Software Engineer (New Grad) |
 |[Atlassian](https://www.atlassian.com/company/careers/detail/620921f2-c09c-4d3e-8bd2-f8781fbcc276) | CA, Remote  | SWE, PM, Site Reliability Eng, Data Scientist ([Full list here](https://www.atlassian.com/company/careers/students))|
 |[Gusto](https://boards.greenhouse.io/gusto/jobs/3499021) | SF, NYC, Denver | No sponsorship |
-|[Google](https://careers.google.com/jobs/results/139295856164512454-software-engineer-early-career-campus/) | US, [Canada](https://careers.google.com/jobs/results/74898009881486022-software-developer-early-career-campus/) | SWE, [Front End](https://careers.google.com/jobs/results/91669597192626886-ux-engineer-front-end-early-career/) |
 |[Gap Inc](https://www.gapinc.com/en-us/jobs/37/63/gaptech-engineering-rotational-program-2) | San Francisco, Columbus, Atlanta, Dallas | SWE |
 |[Aura](https://careers-aura.icims.com/jobs/1479/platform-engineer/job) | Remote | SWE/Platform Engineer |
-|[Slack](https://salesforce.wd1.myworkdayjobs.com/en-US/Slack/job/California---San-Francisco/Associate-Software-Engineer--New-Grad----Slack_JR117902-2) | SF | SWE |
 |[Tucows](https://tucows.com/job/?gh_jid=4665305003) | Canada, USA, Fully Remote  | SWE, PM ([Full list here](https://tucows.com/careers/opportunities/))|
 |[Benchling](https://www.benchling.com/careers/?gh_jid=3248513#detail) | SF, [Boston](https://www.benchling.com/careers/?gh_jid=3632416#detail) | |
 |[Jerry](https://jobs.lever.co/getjerry/3f85c5dd-4b36-4035-a8b6-e54c349054e8) | SF, [Vancouver](https://jobs.lever.co/getjerry/e0d8f129-4750-4b42-b950-d3ba2a96a604), [Toronto](https://jobs.lever.co/getjerry/192721da-da33-4a7a-8ece-aca135e52c14) | |
