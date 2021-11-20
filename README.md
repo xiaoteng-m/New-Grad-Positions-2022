@@ -61,7 +61,6 @@
 |[Plaid](https://plaid.com/careers/openings/all-departments/all-locations/?role=new%20grad) | NYC, SF, Salt Lake City | SWE |
 |[SeatGeek](https://seatgeek.com/jobs/107959?gh_jid=107959) | NYC | SWE |
 |[Squarespace](https://www.squarespace.com/careers/jobs/3408877) | NYC | SWE |
-|[Western Digital](https://jobs.smartrecruiters.com/WesternDigital/743999770489869-software-engineering-new-college-grad-pursuing-bachelor-of-science-) | San Jose, CA | SWE |
 |[Better](https://boards.greenhouse.io/better/jobs/3416543) | NYC | |
 |[Sentry](https://boards.greenhouse.io/sentry/jobs/3462843) | SF, Toronto | SWE |
 |[Abnormal Security](https://boards.greenhouse.io/abnormalsecurity/jobs/4708438003) | SF | SWE |
@@ -69,7 +68,6 @@
 |[MemSQL](https://boards.greenhouse.io/singlestore/jobs/3401522) | SF | SWE |
 |[Discovery](https://jobs.discovery.com/careers-home/jobs/27025?lang=en-us&previousLocale=en-US) | NY, WA, TN | SWE |
 |[Ebay](https://ebay.wd5.myworkdayjobs.com/en-US/apply/job/Software-Engineer--Recent-Graduate_R0049006) | Multiple Locations in the US | SWE |
-|[Expedia](https://lifeatexpediagroup.com/jobs?keyword=Graduate%20Software%20Development%20Engineer%20I%20-%20August%202022) | Seattle, Austin, Chicago | SWE |
 |[Audible](https://www.audiblecareers.com/job/newark/software-development-engineer-i/27552/19666722) | Newark, NJ | SWE |
 |[Ocient](https://www.ocient.com/jobs/?gh_jid=4578160003) | Remote (Based in Chicago) | SWE |
 |[Adobe](https://adobe.wd5.myworkdayjobs.com/external_university) | SF, San Jose, Seattle | 2022 University Graduate: [PM](https://adobe.wd5.myworkdayjobs.com/en-US/external_university/job/San-Francisco/XMLNAME-2022-University-Graduate--Product-Manager_R114940), [SDE](https://adobe.wd5.myworkdayjobs.com/en-US/external_university/job/Seattle/XMLNAME-2022-University-Graduate---Software-Development-Engineer_R114913), [SDE 1](https://adobe.wd5.myworkdayjobs.com/en-US/external_university/job/San-Jose/XMLNAME-2022-University-Graduate---Software-Development-Engineer-1_R114900) |
