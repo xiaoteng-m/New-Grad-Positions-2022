@@ -17,7 +17,6 @@
 |[Keysight Technologies](https://jobs.keysight.com/job/Santa-Rosa-R&D-Engineer-2%2C-Software-CA-95401/768839700/) | Santa Rosa, CA |  |
 |[JP Morgan](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210139739/apply/email?keyword=2022+Software+Engineer+Program+-+Full+Time+Opportunity) | NYC |  |
 |[MathWorks](https://www.mathworks.com/company/jobs/opportunities/search?job_type_id%5B%5D=1756&keywords=new+graduate&location%5B%5D=US&posting_org_id%5B%5D=1&posting_team_id%5B%5D=6&posting_team_id%5B%5D=5&posting_team_id%5B%5D=22&posting_team_id%5B%5D=21&posting_team_id%5B%5D=12&posting_team_id%5B%5D=12&posting_team_id%5B%5D=3&posting_team_id%5B%5D=13&posting_team_id%5B%5D=1&posting_team_id%5B%5D=20&posting_team_id%5B%5D=11&posting_team_id%5B%5D=8&posting_team_id%5B%5D=4&posting_team_id%5B%5D=7&posting_team_id%5B%5D=18&posting_team_id%5B%5D=10&posting_team_id%5B%5D=9&posting_team_id%5B%5D=2) | Natick, MA |  |
-|[Salesforce](https://salesforce.wd1.myworkdayjobs.com/en-US/External_Career_Site/job/California---San-Francisco/AMTS-Software-Engineer_JR105192?d=cta-nav-sjb-1) | Multiple Locations |  |
 |[Affirm](https://boards.greenhouse.io/affirm/jobs/4650345003) | Remote |  |
 [Acorns](https://boards.greenhouse.io/acorns/jobs/2589045?gh_jid=2589045) | Irvine, CA | Option to be remote|
 |[IBM](https://careers.ibm.com/job/13459877/entry-level-associate-developer-commercial-remote/?codes=JB_EPH_JobBoard2021) | Various | |
