@@ -43,7 +43,6 @@
 |[Twilio](https://www.twilio.com/company/jobs?department=students#open-positions) | SF, Denver | SWE, others |
 |[Workday](https://workday.wd5.myworkdayjobs.com/en-US/Workday_University_Careers) | Multiple | Multiple |
 |[EAB](https://eab.com/careers/open-positions/) | Multiple | Multiple "Associate" positions starting Summer 2022 |
-|[IXL](https://ie.ixl.com/company/careers) | San Mateo, Raleigh, Toronto | New Grad SWE |
 |[Visa](https://careers.smartrecruiters.com/Visa/university-recruiting) | Multiple | Multiple positions |
 |[Gem](https://www.gem.com/company/careers#jobboard) | San Francisco | New Grad Product Engineer (Rotation) |
 |[Indeed](https://ur-careers-indeed.icims.com/jobs/search?ics_keywords=Grad) | US-Remote | SWE |
