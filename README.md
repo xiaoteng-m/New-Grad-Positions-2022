@@ -50,7 +50,6 @@
 |[Gem](https://www.gem.com/company/careers#jobboard) | San Francisco | New Grad Product Engineer (Rotation) |
 |[Indeed](https://ur-careers-indeed.icims.com/jobs/search?ics_keywords=Grad) | US-Remote | SWE |
 |[Restaurant Brands International](https://careers.rbi.com/global/en/c/campus-jobs) | Miami, Toronto | SWE, Leadership |
-|[Pinterest](https://www.pinterestcareers.com/job-search-results/?keyword=university%20grad%20swe&primary_category=University&job_type=Regular) | San Francisco, Palo Alto, Seattle, Toronto | SWE |
 |[Liberty Mutual](https://jobs.libertymutualgroup.com/job/13586540/2022-techstart-full-time-program-portsmouth-nh/) | Various | TechStart Full-Time Program |
 |[Two Sigma](https://careers.twosigma.com/careers/Careers?jobId=8473) | NYC | SWE |
 |[Accenture](https://www.accenture.com/us-en/careers/life-at-accenture/entry-level) | Multiple | Development programs - no separate links, click "Create Your Profile" |
